@@ -1,7 +1,7 @@
 
 Lorenzo Rossi:
   name        : "Lorenzo Rossi"
-  bio         : "PhD Student, Ca' Foscari University of Venice"
+  bio         : "PhD Student / Ca' Foscari University of Venice"
   avatar      : "/assets/images/Lorenzo Rossi 3-2 tre_2.jpg"
   links:
     - label: "Email"
@@ -9,7 +9,7 @@ Lorenzo Rossi:
       url: "mailto:lorenzo.rossi@unive.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://lorenzorossi8497.github.io/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
       url: "https://www.unive.it/data/people/28937785"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/lorenzorossi8497"

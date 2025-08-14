@@ -4,7 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**Teaching**
 
 [Macroeconomics - Practice](https://www.unive.it/data/course/469369), 2025/2026
 

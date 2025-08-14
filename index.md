@@ -7,7 +7,7 @@ author_profile: true
 
 <table style="width: 100%;">
   <tr>
-	<td style="width: 100%; border-bottom:0px;"><h1>Brantly Callaway</h1></td>
+	<td style="width: 100%; border-bottom:0px;"><h1>Lorenzo Rossi</h1></td>
   </tr>
 </table>
 

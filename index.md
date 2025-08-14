@@ -11,6 +11,6 @@ author_profile: true
   </tr>
 </table>
 
-I am a PhD Student at the Economics Department at the Ca' Foscari University of Venice.
+I am a PhD Student in the Economics Department at Ca' Foscari University of Venice.
 
 My research interests are Political Economy and Policy Evaluation.

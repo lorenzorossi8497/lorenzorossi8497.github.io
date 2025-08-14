@@ -1,7 +1,9 @@
 
 Lorenzo Rossi:
   name        : "Lorenzo Rossi"
-  bio         : "PhD Student, Ca' Foscari University of Venice"
+  bio         : |
+    Ph.D. Candidate in Economics <br>
+    Ca' Foscari University of Venice
   avatar      : "/assets/images/Lorenzo Rossi 3-2 tre_2.jpg"
   links:
     - label: "Email"

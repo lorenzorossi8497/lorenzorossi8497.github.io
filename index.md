@@ -13,4 +13,4 @@ author_profile: true
 
 I am a PhD Student at the Economics Department at the Ca' Foscari University of Venice.
 
-My research interests are in Political Economy and Policy Evaluation.
+My research interests are Political Economy and Policy Evaluation.

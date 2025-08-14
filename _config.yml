@@ -1,3 +1,35 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+#
+# This file contains configuration flags to customize your site
+#
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
+title: Lorenzo Rossi
+subtitle: ""
+author: "Lorenzo Rossi"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      comments: false
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache

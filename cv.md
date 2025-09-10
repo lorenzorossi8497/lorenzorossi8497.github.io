@@ -1,3 +1,9 @@
+---
+layout: single
+title: Education
+permalink: /education/
+---
+
 <div class="WordSection1">
     <p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;"><span style='font-size:25.0pt;line-height:107%;font-family:"Cambria",serif;'>Lorenzo Rossi</span></p>
     <p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5pt;text-align:center;text-indent:-.5pt;"><span style='font-size:12.0pt;line-height:107%;font-family:"Cambria",serif;'>Department of Economics</span></p>

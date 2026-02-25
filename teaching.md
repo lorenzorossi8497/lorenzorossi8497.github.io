@@ -10,7 +10,7 @@ permalink: /teaching/
 
 [Macroeconomics - Practice](https://www.unive.it/data/course/469369), 2024/2025
 
-
+\
 
 **Tutoring**
 

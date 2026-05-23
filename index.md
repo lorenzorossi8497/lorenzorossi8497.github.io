@@ -9,4 +9,4 @@ I am a PhD Candidate in the Economics Department at [Ca' Foscari University of V
 
 My research focuses on **Political Economy** and **Policy Evaluation**, with a particular interest in how European Union policies shape political attitudes and electoral outcomes.
 
-**[Download CV (PDF)](/files/CV.pdf)**
+**[CV](/cv/)**

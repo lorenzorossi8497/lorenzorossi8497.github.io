@@ -1,17 +1,20 @@
-
 Lorenzo Rossi:
   name        : "Lorenzo Rossi"
   bio         : |
     Ph.D. Candidate in Economics <br>
-    Ca' Foscari University of Venice
+    Ca' Foscari University of Venice <br>
+    <em>Political Economy · Policy Evaluation</em>
   avatar      : "/assets/images/Lorenzo Rossi 3-2 tre_2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lorenzo.rossi@unive.it"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "University Profile"
+      icon: "fas fa-fw fa-university"
       url: "https://www.unive.it/data/people/28937785"
-    - label: "Github"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=YOURID"   # ← replace with your ID
+    - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/lorenzorossi8497"

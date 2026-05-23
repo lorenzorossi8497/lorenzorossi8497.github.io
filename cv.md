@@ -25,8 +25,8 @@ author_profile: true
 </style>
 
 <div class="cv-embed-wrapper">
-  <embed src="/files/CV.pdf" type="application/pdf" />
+  <embed src="/assets/files/CV.pdf" type="application/pdf" />
   <p class="cv-fallback">
-    PDF not displaying? <a href="/files/CV.pdf">Download it here</a>.
+    PDF not displaying? <a href="/assets/files/CV.pdf">Download it here</a>.
   </p>
 </div>

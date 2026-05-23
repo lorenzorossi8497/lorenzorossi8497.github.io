@@ -4,9 +4,10 @@
 #
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"   # cleaner, softer look than default
 title: Lorenzo Rossi
-subtitle: ""
+subtitle: "Ph.D. Candidate in Economics"
+description: "Ph.D. Candidate in Economics at Ca' Foscari University of Venice. Research interests in Political Economy and Policy Evaluation."
 author: "Lorenzo Rossi"
 defaults:
   # _posts

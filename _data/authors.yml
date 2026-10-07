@@ -12,9 +12,9 @@ Lorenzo Rossi:
     - label: "University Profile"
       icon: "fas fa-fw fa-university"
       url: "https://www.unive.it/data/people/28937785"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=YOURID"   # ← replace with your ID
+   # - label: "Google Scholar"
+   #   icon: "ai ai-google-scholar"
+   #   url: "https://scholar.google.com/citations?user=YOURID"   # ← replace with your ID
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/lorenzorossi8497"

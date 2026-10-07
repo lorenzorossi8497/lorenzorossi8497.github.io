@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+[Macroeconomics 1 - Practice](https://www.unive.it/data/course/561660), 2026/2027
+
 [Macroeconomics 1 - Practice](https://www.unive.it/data/course/610416), 2025/2026
 
 [Macroeconomics 2 - Practice](https://www.unive.it/data/course/506799), 2025/2026
@@ -13,6 +15,8 @@ permalink: /teaching/
 
 
 **Tutoring**
+
+[Political Economics](https://www.unive.it/data/course/517631), [Macroeconomics and Institutions](https://www.unive.it/data/course/513093), 2026/2027
 
 [Political Economics](https://www.unive.it/data/course/458880), [Macroeconomics and Institutions](https://www.unive.it/data/course/445119), 2025/2026
 
